@@ -1,0 +1,8 @@
+# Usage: pip install -r requirements.txt
+streamlit 
+streamlit_drawable_canvas
+numpy
+Pillow
+tensorflow
+pandas
+pyttsx3
