@@ -5,4 +5,5 @@ numpy
 Pillow
 tensorflow
 pandas
-pyttsx3
+gtts
+gtts-token

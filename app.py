@@ -7,7 +7,7 @@ from tensorflow.keras.utils import load_img
 from tensorflow.keras.utils import img_to_array
 from keras.models import load_model
 import pandas as pd
-import pyttsx3
+from gtts import gTTS
 st.set_page_config(
     page_title="Handwritten AlphaNumeric Recognizer using CNN",
     page_icon="🔤",
@@ -152,10 +152,16 @@ if button_pressed:
             type_of_res = "Lower Letter"
     result_txt.markdown(f"The predicted result is the **:blue[{type_of_res}]**  **:red[{res}]**")
     sidebar_text.markdown("Result :- "+f"The predicted result is the **:blue[{type_of_res}]**  **:red[{res}]**")
-    engine = pyttsx3.init()
-    engine.say(f"The predicted result is the {type_of_res} {res}")
-    engine.runAndWait()
-    engine = None
+    # engine = pyttsx3.init()
+    # engine.say(f"The predicted result is the {type_of_res} {res}")
+    # engine.runAndWait()
+    # engine = None
+    speech = gTTS(text = f"The predicted result is the {type_of_res} {res}", lang = 'en', slow = False)
+    speech.save('assests/res_trans.mp3') 
+    audio_file = open('assests/res_trans.mp3', 'rb')    
+    audio_bytes = audio_file.read()    
+    st.audio(audio_bytes, format='audio/ogg',start_time=0)
+    
 
 st.markdown("""---""")
 st.subheader("Examples :- ")
