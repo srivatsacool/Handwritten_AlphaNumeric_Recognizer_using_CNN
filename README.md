@@ -8,11 +8,11 @@
 ## Demo :
 Link - 
 
-<video src="https://user-images.githubusercontent.com/76219802/212931298-31e9501f-00bd-4f36-918b-26330821ec5c.mp4" controls="controls" style="max-width: 730px;" autoplay = "autoplay">
+<video src="https://user-images.githubusercontent.com/76219802/212941157-f99cda4f-4912-4e08-9ed9-a47a42d4363e.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
 </video>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76219802/212929653-afa0c5e4-cff3-4d3c-9b04-2447d0113473.png" />
+  <img src="https://user-images.githubusercontent.com/76219802/212941341-6e9784a0-7151-4edb-a09d-69b61a9491bb.png" />
 </p>
 
 ## Requirements
