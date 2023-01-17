@@ -7,7 +7,12 @@
 
 ## Demo :
 Link - \
-<img src="https://media.giphy.com/media/eZO1Wh52TIlwcRnHDu/giphy.gif" width="4000"/>
+
+<div align="center">
+    <a href="./">
+        <img src="./assests/example1.jpg" width="59%"/>
+    </a>
+</div>
 
 ## Requirements
 
