@@ -38,10 +38,10 @@ gtts-token
 - Open Git Bash.
 
 - Change the current working directory to the location where you want the cloned directory.
-- Copy the URL from the repository or use the other options as well . The following is for cloning using the link .
+- Copy the URL from the repository or use the other options as well . The following is for cloning using the link .\
 
+![github_download](https://user-images.githubusercontent.com/76219802/212929653-afa0c5e4-cff3-4d3c-9b04-2447d0113473.png)\
 
-![Dashboard Image](https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png)
 - Type `git clone` , and then paste the copied URL of the repository
 - Clone the repository .  
 
@@ -59,6 +59,6 @@ To deploy this project run  :
 
 - Light/dark mode toggle
 - Live previews
-- Recognizes 
+- Recognizes both Letters and Numbers
 - Cross platform
 
