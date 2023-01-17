@@ -7,7 +7,8 @@
 
 ## Demo :
 Link - 
-
+ ![](https://github.com/srivatsacool/Handwritten_AlphaNumeric_Recognizer_using_CNN/blob/main/assests/dashboard%20example.gif)
+          
 ## Requirements
 
 Install all the needed pyhton Library using requirements.txt 
