@@ -40,7 +40,11 @@ gtts-token
 - Change the current working directory to the location where you want the cloned directory.
 - Copy the URL from the repository or use the other options as well . The following is for cloning using the link .\
 
-![github_download](https://user-images.githubusercontent.com/76219802/212929653-afa0c5e4-cff3-4d3c-9b04-2447d0113473.png)\
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76219802/212929653-afa0c5e4-cff3-4d3c-9b04-2447d0113473.png" />
+</p>
+
 
 - Type `git clone` , and then paste the copied URL of the repository
 - Clone the repository .  
