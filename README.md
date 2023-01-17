@@ -6,9 +6,9 @@
 
 
 ## Demo :
-Link - 
- ![](https://github.com/srivatsacool/Handwritten_AlphaNumeric_Recognizer_using_CNN/blob/main/assests/dashboard%20example.gif)
-          
+Link - \
+<img src="https://media.giphy.com/media/eZO1Wh52TIlwcRnHDu/giphy.gif" width="4000"/>
+
 ## Requirements
 
 Install all the needed pyhton Library using requirements.txt 
