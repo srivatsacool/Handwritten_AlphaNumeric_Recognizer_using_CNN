@@ -6,7 +6,7 @@
 
 
 ## Demo :
-Try Link - https://srivatsacool-handwritten-alphanumeric-recognizer-usi-app-bper2m.streamlit.app/ 
+Try Link - https://srivat-1--handwritten-alphanumeric-recognizer-using-cnn-1hkq8f.streamlit.app/
 
 <video src="https://user-images.githubusercontent.com/76219802/212941157-f99cda4f-4912-4e08-9ed9-a47a42d4363e.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
 </video>
