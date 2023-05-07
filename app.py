@@ -41,7 +41,7 @@ with st.sidebar:
     st.markdown("""---""")
     st.image("assests/example3.png")
 
-mapp = pd.read_csv("assests/emnist-balanced-mapping.txt", delimiter = ' ', index_col=0, header=None, squeeze=True)
+mapp = pd.read_csv("assests/emnist-balanced-mapping.txt", delimiter = ' ', index_col=0, header=None)
 
 st.markdown("<h1 style='font-family: monaco, monospace;text-align: center;font-size: 70px;background: linear-gradient(to left,violet,indigo,blue,green, yellow, orange,red);-webkit-background-clip: text;color: transparent;'>Handwritten AlphaNumeric Recognizer</h1> ", unsafe_allow_html=True)
 # st.markdown("<h1 style='font-family: monaco, monospace;text-align: center;font-size: 70px;background: linear-gradient(to left,violet,indigo,blue,green, yellow, orange,red);-webkit-background-clip: text;color: transparent;'>with sound </h1> ", unsafe_allow_html=True)
